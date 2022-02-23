@@ -127,117 +127,21 @@ Visualization Manager:
           Value: true
         cam_9_color_optical_frame:
           Value: true
-        d455_1_accel_frame:
-          Value: true
-        d455_1_accel_optical_frame:
-          Value: true
-        d455_1_color_frame:
-          Value: true
         d455_1_color_optical_frame:
-          Value: true
-        d455_1_depth_frame:
           Value: true
         d455_1_depth_optical_frame:
           Value: true
-        d455_1_gyro_frame:
-          Value: true
-        d455_1_imu_optical_frame:
-          Value: true
-        d455_1_infra1_frame:
-          Value: true
-        d455_1_infra1_optical_frame:
-          Value: true
-        d455_1_infra2_frame:
-          Value: true
-        d455_1_infra2_optical_frame:
-          Value: true
-        d455_1_link:
-          Value: true
-        d455_1_thermal_optical_frame:
-          Value: true
-        d455_2_accel_frame:
-          Value: true
-        d455_2_accel_optical_frame:
-          Value: true
-        d455_2_color_frame:
-          Value: true
         d455_2_color_optical_frame:
-          Value: true
-        d455_2_depth_frame:
           Value: true
         d455_2_depth_optical_frame:
           Value: true
-        d455_2_gyro_frame:
-          Value: true
-        d455_2_imu_optical_frame:
-          Value: true
-        d455_2_infra1_frame:
-          Value: true
-        d455_2_infra1_optical_frame:
-          Value: true
-        d455_2_infra2_frame:
-          Value: true
-        d455_2_infra2_optical_frame:
-          Value: true
-        d455_2_link:
-          Value: true
-        d455_2_thermal_optical_frame:
-          Value: true
-        d455_3_accel_frame:
-          Value: true
-        d455_3_accel_optical_frame:
-          Value: true
-        d455_3_color_frame:
-          Value: true
         d455_3_color_optical_frame:
-          Value: true
-        d455_3_depth_frame:
           Value: true
         d455_3_depth_optical_frame:
           Value: true
-        d455_3_gyro_frame:
-          Value: true
-        d455_3_imu_optical_frame:
-          Value: true
-        d455_3_infra1_frame:
-          Value: true
-        d455_3_infra1_optical_frame:
-          Value: true
-        d455_3_infra2_frame:
-          Value: true
-        d455_3_infra2_optical_frame:
-          Value: true
-        d455_3_link:
-          Value: true
-        d455_3_thermal_optical_frame:
-          Value: true
-        d455_4_accel_frame:
-          Value: true
-        d455_4_accel_optical_frame:
-          Value: true
-        d455_4_color_frame:
-          Value: true
         d455_4_color_optical_frame:
           Value: true
-        d455_4_depth_frame:
-          Value: true
         d455_4_depth_optical_frame:
-          Value: true
-        d455_4_gyro_frame:
-          Value: true
-        d455_4_imu_optical_frame:
-          Value: true
-        d455_4_infra1_frame:
-          Value: true
-        d455_4_infra1_optical_frame:
-          Value: true
-        d455_4_infra2_frame:
-          Value: true
-        d455_4_infra2_optical_frame:
-          Value: true
-        d455_4_link:
-          Value: true
-        d455_4_thermal_optical_frame:
           Value: true
         map:
           Value: false
@@ -250,117 +154,49 @@ Visualization Manager:
       Show Names: false
       Tree:
         base:
-          d455_1_link:
-            d455_1_accel_frame:
-              d455_1_accel_optical_frame:
+          d455_1_color_optical_frame:
+            cam_10_color_optical_frame:
+              {}
+            cam_11_color_optical_frame:
+              {}
+            cam_12_color_optical_frame:
+              {}
+            cam_13_color_optical_frame:
+              {}
+            cam_14_color_optical_frame:
+              {}
+            cam_15_color_optical_frame:
+              {}
+            cam_16_color_optical_frame:
+              {}
+            cam_1_color_optical_frame:
+              {}
+            cam_2_color_optical_frame:
+              {}
+            cam_3_color_optical_frame:
+              {}
+            cam_4_color_optical_frame:
+              {}
+            cam_5_color_optical_frame:
+              {}
+            cam_6_color_optical_frame:
+              {}
+            cam_7_color_optical_frame:
+              {}
+            cam_8_color_optical_frame:
+              {}
+            cam_9_color_optical_frame:
+              {}
+            d455_1_depth_optical_frame:
+              {}
+            d455_2_color_optical_frame:
+              d455_2_depth_optical_frame:
                 {}
-            d455_1_color_frame:
-              d455_1_color_optical_frame:
-                cam_10_color_optical_frame:
-                  {}
-                cam_11_color_optical_frame:
-                  {}
-                cam_12_color_optical_frame:
-                  {}
-                cam_13_color_optical_frame:
-                  {}
-                cam_14_color_optical_frame:
-                  {}
-                cam_15_color_optical_frame:
-                  {}
-                cam_16_color_optical_frame:
-                  {}
-                cam_1_color_optical_frame:
-                  {}
-                cam_2_color_optical_frame:
-                  {}
-                cam_3_color_optical_frame:
-                  {}
-                cam_4_color_optical_frame:
-                  {}
-                cam_5_color_optical_frame:
-                  {}
-                cam_6_color_optical_frame:
-                  {}
-                cam_7_color_optical_frame:
-                  {}
-                cam_8_color_optical_frame:
-                  {}
-                cam_9_color_optical_frame:
-                  {}
-                d455_1_thermal_optical_frame:
-                  {}
-                d455_2_link:
-                  d455_2_accel_frame:
-                    d455_2_accel_optical_frame:
-                      {}
-                  d455_2_color_frame:
-                    d455_2_color_optical_frame:
-                      d455_2_thermal_optical_frame:
-                        {}
-                  d455_2_depth_frame:
-                    d455_2_depth_optical_frame:
-                      {}
-                  d455_2_gyro_frame:
-                    d455_2_imu_optical_frame:
-                      {}
-                  d455_2_infra1_frame:
-                    d455_2_infra1_optical_frame:
-                      {}
-                  d455_2_infra2_frame:
-                    d455_2_infra2_optical_frame:
-                      {}
-                d455_3_link:
-                  d455_3_accel_frame:
-                    d455_3_accel_optical_frame:
-                      {}
-                  d455_3_color_frame:
-                    d455_3_color_optical_frame:
-                      d455_3_thermal_optical_frame:
-                        {}
-                  d455_3_depth_frame:
-                    d455_3_depth_optical_frame:
-                      {}
-                  d455_3_gyro_frame:
-                    d455_3_imu_optical_frame:
-                      {}
-                  d455_3_infra1_frame:
-                    d455_3_infra1_optical_frame:
-                      {}
-                  d455_3_infra2_frame:
-                    d455_3_infra2_optical_frame:
-                      {}
-                d455_4_link:
-                  d455_4_accel_frame:
-                    d455_4_accel_optical_frame:
-                      {}
-                  d455_4_color_frame:
-                    d455_4_color_optical_frame:
-                      d455_4_thermal_optical_frame:
-                        {}
-                  d455_4_depth_frame:
-                    d455_4_depth_optical_frame:
-                      {}
-                  d455_4_gyro_frame:
-                    d455_4_imu_optical_frame:
-                      {}
-                  d455_4_infra1_frame:
-                    d455_4_infra1_optical_frame:
-                      {}
-                  d455_4_infra2_frame:
-                    d455_4_infra2_optical_frame:
-                      {}
-            d455_1_depth_frame:
-              d455_1_depth_optical_frame:
+            d455_3_color_optical_frame:
+              d455_3_depth_optical_frame:
                 {}
-            d455_1_gyro_frame:
-              d455_1_imu_optical_frame:
-                {}
-            d455_1_infra1_frame:
-              d455_1_infra1_optical_frame:
-                {}
-            d455_1_infra2_frame:
-              d455_1_infra2_optical_frame:
+            d455_4_color_optical_frame:
+              d455_4_depth_optical_frame:
                 {}
           map:
             {}
@@ -429,7 +265,7 @@ Visualization Manager:
       Invert Rainbow: false
       Max Color: 255; 255; 255
       Min Color: 0; 0; 0
-      Name: semantic cloud
+      Name: semantic cloud d455_1
       Position Transformer: XYZ
       Queue Size: 10
       Selectable: true
@@ -437,6 +273,90 @@ Visualization Manager:
       Size (m): 0.03999999910593033
       Style: Flat Squares
       Topic: /d455_1/cloud_coloring/semantic_cloud
+      Unreliable: false
+      Use Fixed Frame: true
+      Use rainbow: true
+      Value: false
+    - Alpha: 1
+      Autocompute Intensity Bounds: true
+      Autocompute Value Bounds:
+        Max Value: 10
+        Min Value: -10
+        Value: true
+      Axis: Z
+      Channel Name: intensity
+      Class: rviz/PointCloud2
+      Color: 0; 0; 127
+      Color Transformer: RGB8
+      Decay Time: 0
+      Enabled: false
+      Invert Rainbow: false
+      Max Color: 255; 255; 255
+      Min Color: 0; 0; 0
+      Name: semantic cloud d455_2
+      Position Transformer: XYZ
+      Queue Size: 10
+      Selectable: true
+      Size (Pixels): 3
+      Size (m): 0.03999999910593033
+      Style: Flat Squares
+      Topic: /d455_2/cloud_coloring/semantic_cloud
+      Unreliable: false
+      Use Fixed Frame: true
+      Use rainbow: true
+      Value: false
+    - Alpha: 1
+      Autocompute Intensity Bounds: true
+      Autocompute Value Bounds:
+        Max Value: 10
+        Min Value: -10
+        Value: true
+      Axis: Z
+      Channel Name: intensity
+      Class: rviz/PointCloud2
+      Color: 0; 0; 127
+      Color Transformer: RGB8
+      Decay Time: 0
+      Enabled: false
+      Invert Rainbow: false
+      Max Color: 255; 255; 255
+      Min Color: 0; 0; 0
+      Name: semantic cloud d455_3
+      Position Transformer: XYZ
+      Queue Size: 10
+      Selectable: true
+      Size (Pixels): 3
+      Size (m): 0.03999999910593033
+      Style: Flat Squares
+      Topic: /d455_3/cloud_coloring/semantic_cloud
+      Unreliable: false
+      Use Fixed Frame: true
+      Use rainbow: true
+      Value: false
+    - Alpha: 1
+      Autocompute Intensity Bounds: true
+      Autocompute Value Bounds:
+        Max Value: 10
+        Min Value: -10
+        Value: true
+      Axis: Z
+      Channel Name: intensity
+      Class: rviz/PointCloud2
+      Color: 0; 0; 127
+      Color Transformer: RGB8
+      Decay Time: 0
+      Enabled: false
+      Invert Rainbow: false
+      Max Color: 255; 255; 255
+      Min Color: 0; 0; 0
+      Name: semantic cloud d455_4
+      Position Transformer: XYZ
+      Queue Size: 10
+      Selectable: true
+      Size (Pixels): 3
+      Size (m): 0.03999999910593033
+      Style: Flat Squares
+      Topic: /d455_4/cloud_coloring/semantic_cloud
       Unreliable: false
       Use Fixed Frame: true
       Use rainbow: true
@@ -469,25 +389,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 26.77566146850586
+      Distance: 26.390090942382812
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: -2.7219409942626953
-        Y: -2.5648739337921143
-        Z: -1.9824728965759277
+        X: -1.8022136688232422
+        Y: -1.0911543369293213
+        Z: -2.551543712615967
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 1.309796690940857
+      Pitch: 1.3497967720031738
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 1.6051653623580933
+      Yaw: 1.695164680480957
     Saved: ~
 Window Geometry:
   "&Displays":
@@ -505,5 +425,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 2880
-  X: 0
-  Y: 0
+  X: 242
+  Y: 391
