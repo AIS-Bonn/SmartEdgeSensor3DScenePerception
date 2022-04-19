@@ -3,7 +3,9 @@ In this repo we publish the code for the paper:<br>
 3D Semantic Scene Perception using Distributed Smart Edge Sensors
 
 ## Citation
-TODO (under review)
+Simon Bultmann and Sven Behnke:<br>
+3D Semantic Scene Perception using Distributed Smart Edge Sensors<br>
+Accepted for 17th International Conference on Intelligent Autonomous Systems (IAS), Zagreb, Croatia, June 2022.
 
 ## Installation
 ### Dependencies
